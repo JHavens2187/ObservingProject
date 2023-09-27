@@ -1,2 +1,2 @@
-# ObservingProject_student
+# ObservingProject
 written by Joseph Havens
